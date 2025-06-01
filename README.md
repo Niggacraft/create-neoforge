@@ -30,6 +30,12 @@ Minecraft modpack for **Minecraft 1.21.1** using **NeoForge 21.1.172**. This mod
 
 ---
 
+## 📌 Installation Instructions
+
+1. **Ensure Compatibility**: Install Minecraft version ```1.21.1``` and NeoForge version ```21.1.172```
+2. **Modpack Installation**: Place all mod `.jar` files into the `mods` folder located in your Minecraft directory.
+3. **Launch the Game**: Start Minecraft using the NeoForge profile to experience the enhanced gameplay.
+
 ## 🚀 Performance Optimization
 
 * **Sodium**: Replaces Minecraft's rendering engine with a more efficient implementation, significantly boosting frame rates and reducing stuttering.
@@ -42,4 +48,3 @@ Minecraft modpack for **Minecraft 1.21.1** using **NeoForge 21.1.172**. This mod
 
 ---
 Enjoy your enriched Minecraft experience with this comprehensive modpack!
-
